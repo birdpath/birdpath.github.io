@@ -4,7 +4,7 @@ body {
     "MS PGothic", farial, helvetica, clean, sans-serif;
   max-width: 43em;
   margin: auto;
-  background-image: linear-gradient(#d9f0d6, #f4ffee, #f4ffee, white, white);
+  background-image: linear-gradient(#edd6f0, #f9eeff, #f9eeff, black, black);
   background-attachment: fixed;
 }
 
