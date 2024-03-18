@@ -60,7 +60,7 @@ p {
   background-color: white;
 }
 .box_bar {
-  background: #b9d9b7;
+  background: #d7b7d9;
   color: #2a0c4d;
 }
 
@@ -166,14 +166,14 @@ div.desc {
   /* width: 250px; */
   padding: 0.5em;
   font-size: 20px;
-  background: #b9d9b7;
+  background: #d7b7d9;
   color: #2a0c4d;
   cursor: pointer;
   white-space: pre-line;
 }
 .connect-button:hover {
-  background: #9db89b;
-  color: #1d3007;
+  background: #b69bb8;
+  color: #1a0730;
 }
 
 .mint-button {
