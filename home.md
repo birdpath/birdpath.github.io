@@ -1,7 +1,13 @@
 ---
-layout: default
+layout: home
 title: Home
 ---
+<div class="nav-links" lang="en">
+            <span class="left-link"><a class="nav-link left-link" href="/en/">about</a></span>
+            <span class="center-link"><a class="nav-link center-link" href="/en/documentation">documentation</a></span>
+            <span class="right-link"><a class="nav-link right-link" href="/en/contact">contact</a></span>
+        </div>
+
 <div class="m_box">
   <div class="m_box_bar">
     <h2>Welcome to my den...</h2>
